@@ -7,7 +7,7 @@ Comments-URI: https://github.com/bitcoin/bips/wiki/Comments:BIP-?
 Status: Draft
 Type: Standards Track
 Created: 2024-11-04
-License: BSD-2-Clause
+License: MIT
 </pre>
 
 == Abstract ==
